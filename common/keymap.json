@@ -1,0 +1,786 @@
+[
+    {
+        "Key": "Esc",
+        "Bytes": [
+            "0x1b"
+        ]
+    },
+    {
+        "Key": "F1",
+        "Bytes": [
+            "0x1b",
+            "0x4f",
+            "0x50"
+        ]
+    },
+    {
+        "Key": "F2",
+        "Bytes": [
+            "0x1b",
+            "0x4f",
+            "0x51"
+        ]
+    },
+    {
+        "Key": "F3",
+        "Bytes": [
+            "0x1b",
+            "0x4f",
+            "0x52"
+        ]
+    },
+    {
+        "Key": "F4",
+        "Bytes": [
+            "0x1b",
+            "0x4f",
+            "0x53"
+        ]
+    },
+    {
+        "Key": "F5",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x31",
+            "0x35",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "F6",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x31",
+            "0x37",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "F7",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x31",
+            "0x38",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "F8",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x31",
+            "0x39",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "F9",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x32",
+            "0x30",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "F10",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x32",
+            "0x31",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "F11",
+        "Bytes": []
+    },
+    {
+        "Key": "F12",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x32",
+            "0x34",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "Backtick",
+        "Bytes": [
+            "0x60"
+        ]
+    },
+    {
+        "Key": "Number1",
+        "Bytes": [
+            "0x31"
+        ]
+    },
+    {
+        "Key": "Number2",
+        "Bytes": [
+            "0x32"
+        ]
+    },
+    {
+        "Key": "Number3",
+        "Bytes": [
+            "0x33"
+        ]
+    },
+    {
+        "Key": "Number4",
+        "Bytes": [
+            "0x34"
+        ]
+    },
+    {
+        "Key": "Number5",
+        "Bytes": [
+            "0x35"
+        ]
+    },
+    {
+        "Key": "Number6",
+        "Bytes": [
+            "0x36"
+        ]
+    },
+    {
+        "Key": "Number7",
+        "Bytes": [
+            "0x37"
+        ]
+    },
+    {
+        "Key": "Number8",
+        "Bytes": [
+            "0x38"
+        ]
+    },
+    {
+        "Key": "Number9",
+        "Bytes": [
+            "0x39"
+        ]
+    },
+    {
+        "Key": "Number0",
+        "Bytes": [
+            "0x30"
+        ]
+    },
+    {
+        "Key": "Minus",
+        "Bytes": [
+            "0x2d"
+        ]
+    },
+    {
+        "Key": "Equals",
+        "Bytes": [
+            "0x3d"
+        ]
+    },
+    {
+        "Key": "Backspace",
+        "Bytes": [
+            "0x7f"
+        ]
+    },
+    {
+        "Key": "Tilde",
+        "Bytes": [
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "Shift1",
+        "Bytes": [
+            "0x21"
+        ]
+    },
+    {
+        "Key": "Shift2",
+        "Bytes": [
+            "0x40"
+        ]
+    },
+    {
+        "Key": "Shift3",
+        "Bytes": [
+            "0x23"
+        ]
+    },
+    {
+        "Key": "Shift4",
+        "Bytes": [
+            "0x24"
+        ]
+    },
+    {
+        "Key": "Shift5",
+        "Bytes": [
+            "0x25"
+        ]
+    },
+    {
+        "Key": "Shift6",
+        "Bytes": [
+            "0x5e"
+        ]
+    },
+    {
+        "Key": "Shift7",
+        "Bytes": [
+            "0x26"
+        ]
+    },
+    {
+        "Key": "Shift8",
+        "Bytes": [
+            "0x2a"
+        ]
+    },
+    {
+        "Key": "Shift9",
+        "Bytes": [
+            "0x28"
+        ]
+    },
+    {
+        "Key": "Shift0",
+        "Bytes": [
+            "0x29"
+        ]
+    },
+    {
+        "Key": "Underscore",
+        "Bytes": [
+            "0x5f"
+        ]
+    },
+    {
+        "Key": "Plus",
+        "Bytes": [
+            "0x2b"
+        ]
+    },
+    {
+        "Key": "Tab",
+        "Bytes": [
+            "0x9"
+        ]
+    },
+    {
+        "Key": "q",
+        "Bytes": [
+            "0x71"
+        ]
+    },
+    {
+        "Key": "w",
+        "Bytes": [
+            "0x77"
+        ]
+    },
+    {
+        "Key": "e",
+        "Bytes": [
+            "0x65"
+        ]
+    },
+    {
+        "Key": "r",
+        "Bytes": [
+            "0x72"
+        ]
+    },
+    {
+        "Key": "t",
+        "Bytes": [
+            "0x74"
+        ]
+    },
+    {
+        "Key": "y",
+        "Bytes": [
+            "0x79"
+        ]
+    },
+    {
+        "Key": "u",
+        "Bytes": [
+            "0x75"
+        ]
+    },
+    {
+        "Key": "i",
+        "Bytes": [
+            "0x69"
+        ]
+    },
+    {
+        "Key": "o",
+        "Bytes": [
+            "0x6f"
+        ]
+    },
+    {
+        "Key": "p",
+        "Bytes": [
+            "0x70"
+        ]
+    },
+    {
+        "Key": "LeftSquareBracket",
+        "Bytes": [
+            "0x5b"
+        ]
+    },
+    {
+        "Key": "RightSquareBracket",
+        "Bytes": [
+            "0x5d"
+        ]
+    },
+    {
+        "Key": "Backslash",
+        "Bytes": [
+            "0x5c"
+        ]
+    },
+    {
+        "Key": "Q",
+        "Bytes": [
+            "0x51"
+        ]
+    },
+    {
+        "Key": "W",
+        "Bytes": [
+            "0x57"
+        ]
+    },
+    {
+        "Key": "E",
+        "Bytes": [
+            "0x45"
+        ]
+    },
+    {
+        "Key": "R",
+        "Bytes": [
+            "0x52"
+        ]
+    },
+    {
+        "Key": "T",
+        "Bytes": [
+            "0x54"
+        ]
+    },
+    {
+        "Key": "Y",
+        "Bytes": [
+            "0x59"
+        ]
+    },
+    {
+        "Key": "U",
+        "Bytes": [
+            "0x55"
+        ]
+    },
+    {
+        "Key": "I",
+        "Bytes": [
+            "0x49"
+        ]
+    },
+    {
+        "Key": "O",
+        "Bytes": [
+            "0x4f"
+        ]
+    },
+    {
+        "Key": "P",
+        "Bytes": [
+            "0x50"
+        ]
+    },
+    {
+        "Key": "LeftCurlyBracket",
+        "Bytes": [
+            "0x7b"
+        ]
+    },
+    {
+        "Key": "RightCurlyBracket",
+        "Bytes": [
+            "0x7d"
+        ]
+    },
+    {
+        "Key": "Pipe",
+        "Bytes": [
+            "0x7c"
+        ]
+    },
+    {
+        "Key": "a",
+        "Bytes": [
+            "0x61"
+        ]
+    },
+    {
+        "Key": "s",
+        "Bytes": [
+            "0x73"
+        ]
+    },
+    {
+        "Key": "d",
+        "Bytes": [
+            "0x64"
+        ]
+    },
+    {
+        "Key": "f",
+        "Bytes": [
+            "0x66"
+        ]
+    },
+    {
+        "Key": "g",
+        "Bytes": [
+            "0x67"
+        ]
+    },
+    {
+        "Key": "h",
+        "Bytes": [
+            "0x68"
+        ]
+    },
+    {
+        "Key": "j",
+        "Bytes": [
+            "0x6a"
+        ]
+    },
+    {
+        "Key": "k",
+        "Bytes": [
+            "0x6b"
+        ]
+    },
+    {
+        "Key": "l",
+        "Bytes": [
+            "0x6c"
+        ]
+    },
+    {
+        "Key": "SemiColon",
+        "Bytes": [
+            "0x3b"
+        ]
+    },
+    {
+        "Key": "SingleQuote",
+        "Bytes": [
+            "0x27"
+        ]
+    },
+    {
+        "Key": "Enter",
+        "Bytes": [
+            "0xd"
+        ]
+    },
+    {
+        "Key": "A",
+        "Bytes": [
+            "0x41"
+        ]
+    },
+    {
+        "Key": "S",
+        "Bytes": [
+            "0x53"
+        ]
+    },
+    {
+        "Key": "D",
+        "Bytes": [
+            "0x44"
+        ]
+    },
+    {
+        "Key": "F",
+        "Bytes": [
+            "0x46"
+        ]
+    },
+    {
+        "Key": "G",
+        "Bytes": [
+            "0x47"
+        ]
+    },
+    {
+        "Key": "H",
+        "Bytes": [
+            "0x48"
+        ]
+    },
+    {
+        "Key": "J",
+        "Bytes": [
+            "0x4a"
+        ]
+    },
+    {
+        "Key": "K",
+        "Bytes": [
+            "0x4b"
+        ]
+    },
+    {
+        "Key": "L",
+        "Bytes": [
+            "0x4c"
+        ]
+    },
+    {
+        "Key": "Colon",
+        "Bytes": [
+            "0x3a"
+        ]
+    },
+    {
+        "Key": "DoubleQuote",
+        "Bytes": [
+            "0x22"
+        ]
+    },
+    {
+        "Key": "z",
+        "Bytes": [
+            "0x7a"
+        ]
+    },
+    {
+        "Key": "x",
+        "Bytes": [
+            "0x78"
+        ]
+    },
+    {
+        "Key": "c",
+        "Bytes": [
+            "0x63"
+        ]
+    },
+    {
+        "Key": "v",
+        "Bytes": [
+            "0x76"
+        ]
+    },
+    {
+        "Key": "b",
+        "Bytes": [
+            "0x62"
+        ]
+    },
+    {
+        "Key": "n",
+        "Bytes": [
+            "0x6e"
+        ]
+    },
+    {
+        "Key": "m",
+        "Bytes": [
+            "0x6d"
+        ]
+    },
+    {
+        "Key": "Comma",
+        "Bytes": [
+            "0x2c"
+        ]
+    },
+    {
+        "Key": "Period",
+        "Bytes": [
+            "0x2e"
+        ]
+    },
+    {
+        "Key": "ForwardSlash",
+        "Bytes": [
+            "0x2f"
+        ]
+    },
+    {
+        "Key": "Z",
+        "Bytes": [
+            "0x5a"
+        ]
+    },
+    {
+        "Key": "X",
+        "Bytes": [
+            "0x58"
+        ]
+    },
+    {
+        "Key": "C",
+        "Bytes": [
+            "0x43"
+        ]
+    },
+    {
+        "Key": "V",
+        "Bytes": [
+            "0x56"
+        ]
+    },
+    {
+        "Key": "B",
+        "Bytes": [
+            "0x42"
+        ]
+    },
+    {
+        "Key": "N",
+        "Bytes": [
+            "0x4e"
+        ]
+    },
+    {
+        "Key": "M",
+        "Bytes": [
+            "0x4d"
+        ]
+    },
+    {
+        "Key": "LeftArrowBracket",
+        "Bytes": [
+            "0x3c"
+        ]
+    },
+    {
+        "Key": "RightArrowBracket",
+        "Bytes": [
+            "0x3e"
+        ]
+    },
+    {
+        "Key": "QuestionMark",
+        "Bytes": [
+            "0x3f"
+        ]
+    },
+    {
+        "Key": "Space",
+        "Bytes": [
+            "0x20"
+        ]
+    },
+    {
+        "Key": "Insert",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x32",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "Home",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x48"
+        ]
+    },
+    {
+        "Key": "PageUp",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x35",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "Delete",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x33",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "End",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x46"
+        ]
+    },
+    {
+        "Key": "PageDown",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x36",
+            "0x7e"
+        ]
+    },
+    {
+        "Key": "ArrowUp",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x41"
+        ]
+    },
+    {
+        "Key": "ArrowLeft",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x44"
+        ]
+    },
+    {
+        "Key": "ArrowDown",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x42"
+        ]
+    },
+    {
+        "Key": "ArrowRight",
+        "Bytes": [
+            "0x1b",
+            "0x5b",
+            "0x43"
+        ]
+    }
+]
