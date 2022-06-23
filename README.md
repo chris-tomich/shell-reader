@@ -1,5 +1,7 @@
 # shell-reader
-shell-reader is a really basic Go library to create simple shell environments for VT-1xx compatible terminals. I personally had a need to be able to create a very simple shell to communicate with my services but found it difficult to implement simple features like navigating command history with arrow keys. Other Go libraries I looked into were made for really complex terminal interfaces and I just wanted something super simple. When I started reading into what it takes to accept keys (like arrow up and down) and to communicate with VT-1xx compatible terminals, I decided to expose this feature set as this really simple library.
+shell-reader is a really basic Go library to create simple shell environments for VT-1xx compatible terminals with command history navigation support. I personally had a need to be able to create a very simple shell to communicate with my services but found it difficult to implement simple features like navigating command history with arrow keys using the Go standard library. Other Go libraries I looked into were made for really complex terminal interfaces and I just wanted something super simple. When I started reading into what it takes to accept keys (like arrow up and down) and to communicate with VT-1xx compatible terminals, I decided to expose this feature set as this really simple library.
+
+![](shell-reader.gif)
 
 # Installation
 Install and update this go package with `go get -u github.com/chris-tomich/shell-reader`
